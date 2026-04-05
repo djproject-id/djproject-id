@@ -83,14 +83,15 @@
 ### 🏢 SIVEMAS
 **Enterprise Import Duty Verification Platform**
 
-Production SaaS platform built for PT Surveyor Indonesia. Handles real verification workflows across 13 facility types.
+Production SaaS built for **PT Surveyor Indonesia**. Digitizes import duty exemption verification across 13 facility types.
 
 `Next.js 16` `React 19` `Prisma 7` `PostgreSQL 17` `Claude AI` `Gemini AI` `Playwright`
 
 - ✅ Multi-role RBAC (5 roles, 10 sub-roles, 3 tiers)
 - ✅ AI-powered HS code compliance checking
 - ✅ Geolocation field visits with GPS tracking
-- ✅ PDF/Excel generation, 10-stage CRM
+- ✅ PDF/Excel generation, 10-stage CRM pipeline
+- ✅ Compliant with 7+ government regulations
 - ✅ **In active production use**
 
 </td>
@@ -107,7 +108,42 @@ Multi-agent LLM system with bull/bear debate pipeline, multi-chain execution, an
 - ✅ Multi-chain: EVM, Solana, Hyperliquid
 - ✅ 73 security mitigations across 9 threat domains
 - ✅ Self-learning feedback loop with BM25 memory
+- ✅ Anti-prompt injection (12 pattern detectors)
 - ✅ **327+ passing tests across 40+ files**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Sivericoop
+**National Cooperative Data Collection Platform**
+
+Nationwide data collection & verification platform for the **Ministry of Cooperatives** — surveying savings & loan cooperatives across Indonesia.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Tailwind CSS` `Recharts`
+
+- ✅ 38 provincial coordinators + 675 regional verifiers
+- ✅ Real-time progress dashboard per province
+- ✅ Data validation reducing errors by 30%
+- ✅ Budget tracking & automated reports
+- ✅ **100% data accuracy achieved**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 GCG Compliance Survey
+**Corporate Governance Evaluation Platform**
+
+Digital survey platform & analytics dashboard for **InJourney Group** — evaluating GCG compliance across 7 subsidiaries.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Tailwind CSS` `Recharts`
+
+- ✅ Dynamic survey forms with weighted scoring
+- ✅ 5 governance dimensions assessment
+- ✅ Executive dashboard with gap analysis
+- ✅ Benchmark comparisons across subsidiaries
+- ✅ **Findings adopted for governance reform**
 
 </td>
 </tr>
@@ -183,16 +219,17 @@ Comprehensive library of specialized skill definitions for AI coding agents — 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 By the Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=djproject-id&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=djproject-id&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djproject-id&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" width="40%" />
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **8+** | **7** | **327+** | **132+** |
+| Production Projects | Tech Domains | Automated Tests | E2E Test Cases |
+| | | | |
+| **675+** | **6+** | **13** | **7** |
+| Users Served | Years Experience | Facility Types (SIVEMAS) | Subsidiaries (GCG) |
 
 </div>
 
@@ -204,7 +241,7 @@ Comprehensive library of specialized skill definitions for AI coding agents — 
 
 | | |
 |---|---|
-| 🏗️ **Production Software** | Enterprise SaaS actively used by a national company |
+| 🏗️ **Production Software** | Enterprise SaaS actively used by a national company & government ministry |
 | 🧠 **AI/LLM Expertise** | RAG systems, multi-agent architectures, prompt engineering |
 | ⛓️ **Web3 Experience** | Solana SPL tokens, NFTs, DeFi, DAO governance |
 | 🔒 **Security-First** | 73-threat security model, RBAC, encrypted wallets |
