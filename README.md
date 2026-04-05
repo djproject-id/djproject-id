@@ -62,6 +62,12 @@
 ![Ethereum](https://img.shields.io/badge/EVM/web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3](https://img.shields.io/badge/DeFi_Protocols-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
+**Bot Development**
+
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord Bot](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **Testing & DevOps**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -215,6 +221,42 @@ Comprehensive library of specialized skill definitions for AI coding agents — 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Telegram Bot Template
+**Production-Ready Plugin-Based Bot Scaffold**
+
+Battle-tested Telegram bot template with dynamic plugin system, async PostgreSQL, and community management features.
+
+`Python` `python-telegram-bot` `PostgreSQL` `AsyncIO`
+
+- ✅ Dynamic plugin handler system
+- ✅ XP & leveling with daily streaks
+- ✅ DM-based ticket system with staff relay
+- ✅ Timed giveaways with inline buttons
+- ✅ Forum topic routing & event logging
+- ✅ **[View Repository →](https://github.com/djproject-id/TelegramBotTemplate)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Discord Bot Template
+**Production-Ready Modular Bot Scaffold**
+
+Feature-rich Discord bot template with modular cogs, visual card generation, and full community management toolkit.
+
+`Python` `discord.py` `PostgreSQL` `AsyncIO` `Pillow`
+
+- ✅ Plug-and-play cog architecture
+- ✅ XP system (message, voice, reaction, daily)
+- ✅ Visual PNG cards (rank, leaderboard, welcome)
+- ✅ Persistent button ticket system + transcripts
+- ✅ Slash commands with app_commands
+- ✅ **[View Repository →](https://github.com/djproject-id/DiscordBotTemplate)**
+
+</td>
+</tr>
 </table>
 
 ---
@@ -225,11 +267,11 @@ Comprehensive library of specialized skill definitions for AI coding agents — 
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **8+** | **7** | **327+** | **132+** |
+| **10+** | **9** | **327+** | **132+** |
 | Production Projects | Tech Domains | Automated Tests | E2E Test Cases |
 | | | | |
-| **675+** | **6+** | **13** | **7** |
-| Users Served | Years Experience | Facility Types (SIVEMAS) | Subsidiaries (GCG) |
+| **675+** | **6+** | **5** | **7** |
+| Users Served | Years Experience | Public Open-Source Repos | Subsidiaries (GCG) |
 
 </div>
 
@@ -244,6 +286,7 @@ Comprehensive library of specialized skill definitions for AI coding agents — 
 | 🏗️ **Production Software** | Enterprise SaaS actively used by a national company & government ministry |
 | 🧠 **AI/LLM Expertise** | RAG systems, multi-agent architectures, prompt engineering |
 | ⛓️ **Web3 Experience** | Solana SPL tokens, NFTs, DeFi, DAO governance |
+| 🤖 **Bot Development** | Telegram & Discord bots with plugin systems, XP engines, async PostgreSQL |
 | 🔒 **Security-First** | 73-threat security model, RBAC, encrypted wallets |
 | 🧪 **Testing Discipline** | 327+ tests, dedicated E2E framework, CI/CD pipelines |
 | 📋 **Domain Knowledge** | 6+ years in regulatory compliance, customs, enterprise systems |
