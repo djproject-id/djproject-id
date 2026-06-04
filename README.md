@@ -257,6 +257,60 @@ Feature-rich Discord bot template with modular cogs, visual card generation, and
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✉️ Enveloo
+**Security-First Self-Hosted Email**
+
+Self-hosted email service on Cloudflare Workers — one domain, unlimited addresses, running on the free tier.
+
+`TypeScript` `Hono` `Vue 3` `Cloudflare D1` `Drizzle` `AGPL-3.0`
+
+- ✅ PBKDF2 hashing + revocable HttpOnly-cookie sessions
+- ✅ Inbound HTML sanitized + sandboxed-iframe rendering
+- ✅ Deny-by-default RBAC, invite-only signup + Turnstile
+- ✅ Receive / read / send via Resend, attachments in R2
+- ✅ **[View Repository →](https://github.com/djproject-id/enveloo)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ token-thrift
+**Hardened AI Code-Review Guardrails**
+
+A security-first CLI that lets AI assistants read your codebase while refusing to index wallets, keys, and secrets.
+
+`Shell` `CLI` `DevSecOps` `Secret Scanning` `MIT`
+
+- ✅ Pre-flight + content-level secret scanners
+- ✅ Cloud egress blocked by default (socket-level guard)
+- ✅ SHA256-pinned, hash-verified installs
+- ✅ Tamper-evident wrapper + append-only audit log
+- ✅ **[View Repository →](https://github.com/djproject-id/token-thrift)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ CodeGuide Starter Lite
+**Modern Next.js 15 SaaS Starter**
+
+A batteries-included Next.js starter with authentication, database, and AI chat wired up out of the box.
+
+`Next.js 15` `Clerk` `Supabase` `Vercel AI SDK` `shadcn/ui` `MIT`
+
+- ✅ Clerk authentication + Supabase Row-Level Security
+- ✅ AI chat (OpenAI / Anthropic via Vercel AI SDK)
+- ✅ 40+ shadcn/ui components with dark mode
+- ✅ One-click Vercel deploy
+- ✅ **[View Repository →](https://github.com/djproject-id/codeguide-starter-lite)**
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
@@ -270,7 +324,7 @@ Feature-rich Discord bot template with modular cogs, visual card generation, and
 | **10+** | **9** | **327+** | **132+** |
 | Production Projects | Tech Domains | Automated Tests | E2E Test Cases |
 | | | | |
-| **675+** | **6+** | **5** | **7** |
+| **675+** | **6+** | **7** | **7** |
 | Users Served | Years Experience | Public Open-Source Repos | Subsidiaries (GCG) |
 
 </div>
